@@ -72,10 +72,6 @@ streamlit run app/dashboard.py
   ```
 - Push to Heroku
 
----
-
-## 📊 Example Resume Bullet
-- Designed and deployed a **real-time Energy Market Analytics Dashboard** using Python, SQL, and Streamlit to visualize ERCOT demand and pricing trends, enabling day-ahead forecasting and reducing data-gathering time by 90%.
 
 ---
 
