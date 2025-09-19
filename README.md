@@ -6,10 +6,11 @@ This project demonstrates **data engineering, forecasting, and deployment skills
 ---
 
 ## 📸 Screenshots
-*(Add your own screenshots after running the app locally or from the deployed version)*
 
-Example:
-![Dashboard Screenshot](docs/screenshot.png)
+![Energy Market Screenshot](https://github.com/user-attachments/assets/15430dea-826d-4d06-97da-b1d6d9a37bb2)
+
+![Forecasted Demand](https://github.com/user-attachments/assets/bf88e88d-635e-4dc0-8d38-0ba246e94cc4)
+
 
 ---
 
