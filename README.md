@@ -74,11 +74,6 @@ streamlit run app/dashboard.py
 
 ---
 
-## 📊 Example Resume Bullet
-- Designed and deployed a **real-time Energy Market Analytics Dashboard** using Python, SQL, and Streamlit to visualize ERCOT demand and pricing trends, enabling day-ahead forecasting and reducing data-gathering time by 90%.
-
----
-
 ## 📌 Notes
 - Replace `YOUR_API_KEY` in `app/etl.py` with your EIA API key for live ERCOT data.  
 - Dummy dataset ensures the app runs even without an API key.
